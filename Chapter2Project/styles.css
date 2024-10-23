@@ -1,0 +1,18 @@
+/* Nora Jaafar 10/23/2024 */
+body {
+    background-color: white;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: green;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+

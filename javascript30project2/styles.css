@@ -1,0 +1,32 @@
+/* Nora Jaafar 11/13/2024*/
+    body {
+      margin: 0;
+      font-family: sans-serif;
+      background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGcPu1QUV2i2ubd49dlv9EdNa9LU0HhKr7w&s");
+      background-size: cover;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+
+    header {
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    #movie-list {
+      list-style: inside square;
+      font-size: 20px;
+      background: rgb(215, 169, 215);
+      width: 500px;
+      margin: 20px auto;
+      padding: 0;
+      box-shadow: 0 0 0 20px rgba(0, 0, 0, 0.05);
+    }
+
+    #movie-list li {
+      border-bottom: 1px solid #efefef;
+      padding: 20px;
+    }
+
+    
